@@ -30,3 +30,20 @@
 - Finally, to run the bot, use the following command in your terminal or command prompt (still in the project's root directory):
 ```node index.js```
 - (Assuming your main executable file is `index.js`. If you have a different executable file, replace `index.js` with its name).
+
+## 🎮 How to Use the Steal Emoji Bot
+- Once the bot is running and online on your Discord server, you can use emoji commands (typically starting with `/emoji` if you are using Discord Slash Commands).
+- ✨ Here are some basic commands (depending on how you've implemented them):
+Here is the English translation of your commands' descriptions:
+- `/emoji_steal`: Steal an emoji from another emoji or from a URL and add it to your server. This command can only be used by members with the `ManageEmojisAndStickers` permission.
+- `/emoji_remove`: Remove an emoji from the server using its ID, name, or in the format `<:name:id>`. This command can only be used by members with the `Administrator` permission.
+- Note: Specific commands and their usage may vary depending on how you configure the bot. Refer to the code or other instructions if needed.
+
+## 📩 Contact me on Discord:
+- Username: migu_2008
+
+## 🎬 VIDEO WILL HELP YOU SET UP
+-
+
+## 🎉 HAVE FUN!
+- Follow my GitHub profile for more :3
